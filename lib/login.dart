@@ -40,7 +40,7 @@ class Login extends StatelessWidget {
               width: double.infinity,
               height: 50,
               decoration: BoxDecoration(
-                color: Colors.yellowAccent,
+                color: Color(0xffFCFFA6),
                 borderRadius: BorderRadius.circular(20),
                 border: Border.all(color: Colors.black),
               ),
@@ -57,7 +57,7 @@ class Login extends StatelessWidget {
               width: double.infinity,
               height: 50,
               decoration: BoxDecoration(
-                color: Colors.yellowAccent,
+                color: Color(0xffFCFFA6),
                 borderRadius: BorderRadius.circular(20),
                 border: Border.all(color: Colors.black),
               ),
